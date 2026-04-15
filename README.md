@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git)](https://skillicons.dev)
 
-email para contato: <a href="brmizidio@gmail.com" target="__blank">brmiziio@gmail.com</a>
+email para contato: <a href="brmizidio@gmail.com" target="__blank">brmizidio@gmail.com</a>
 
 ## Redes Sociais
 
