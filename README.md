@@ -1,8 +1,10 @@
 # Olá, sou o Rafael Izidio, e estou estudando Programação! 👋
 
-## - 🌱 Estou atualmente estudando JavaScript + Node.js!
+- 🌱 Estou atualmente estudando JavaScript + Node.js!
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git)](https://skillicons.dev)
+
+email para contato: <a href="brmizidio@gmail.com" target="__blank">brmiziio@gmail.com</a>
 
 ## Redes Sociais
 
