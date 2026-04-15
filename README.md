@@ -2,10 +2,7 @@
 
 - 🌱 Estou atualmente estudando JavaScript + Node.js!
 
-<div style="display: inline_block"><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git)](https://skillicons.dev)
-</div>
-<br>
 
 <div> 
   <a href="https://www.instagram.com/011.izidio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
