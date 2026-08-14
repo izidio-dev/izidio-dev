@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Izidio-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/izidio.dev">
+<a href="https://github.com/izidio-dev">
   <img src="https://img.shields.io/badge/GitHub-izidio.dev-black?style=for-the-badge&logo=github">
 </a>
 </p>
