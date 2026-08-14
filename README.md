@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá 👋 Eu sou Rafael Izidio
+# Hey 👋 I'm Rafael Izidio
 
 ### Node.js Student • Backend Developer
 
@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### Ferramentas
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -33,17 +33,17 @@
 
 ---
 
-## 🔥 Sequência de Contribuição
+## 🔥 Contribuition Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=izidio-dev&hide_border=true"/>"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=izidio-dev&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Let's connect!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-izidio-093151400/--">
@@ -51,6 +51,6 @@
 </a>
 
 <a href="https://github.com/izidio-dev">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=izidio-dev&hide_border=true"/>
+  <img src="https://img.shields.io/badge/GitHub-izidio.dev-black?style=for-the-badge&logo=github">
 </a>
 </p>
