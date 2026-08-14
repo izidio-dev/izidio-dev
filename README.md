@@ -51,6 +51,6 @@
 </a>
 
 <a href="https://github.com/izidio-dev">
-  <img src="https://img.shields.io/badge/GitHub-izidio.dev-black?style=for-the-badge&logo=github">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=izidio-dev&hide_border=true"/>
 </a>
 </p>
