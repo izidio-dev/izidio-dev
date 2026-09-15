@@ -16,13 +16,13 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs" />
 </p>
 
 ### Tools
