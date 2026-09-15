@@ -22,13 +22,13 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,postgresql,supabase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
