@@ -28,7 +28,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,notion,intellijide" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,notion,idea" />
 </p>
 
 ---
