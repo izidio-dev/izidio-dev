@@ -16,19 +16,19 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,postgresql,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,supabase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,notion,claude" />
 </p>
 
 ---
